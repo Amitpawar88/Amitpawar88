@@ -59,4 +59,4 @@ You can find me here :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitpawar88&theme=dark" alt="Amit Pawar" /></p>
   </div>
 
- [![Amitpawar88's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Amitpawar88&theme=xcode)](https://git.io/Amitpawar88)
+<!--  [![Amitpawar88's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Amitpawar88&theme=xcode)](https://git.io/Amitpawar88) -->
