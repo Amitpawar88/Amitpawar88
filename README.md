@@ -38,9 +38,10 @@ You can find me here :
 ### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-https://amitpawar.hashnode.dev/my-journey-from-zero-to-hacktoberfest-accepted-in-2022
+
 - [My journey from zero to Hacktoberfest Accepted in 2022](https://amitpawar.hashnode.dev/my-journey-from-zero-to-hacktoberfest-accepted-in-2022)
 - [Best LeetCode extensions for productivity](https://amitpawar.hashnode.dev/best-leetcode-extensions-for-productivity)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://amitpawar.hashnode.dev/)
