@@ -6,7 +6,7 @@ You can find me here :
   <a href="https://hashnode.com/@amitpawar88"><img title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="mailto:amitpawar7475@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@amitpawar88"><img title="YouTube" src="https://img.shields.io/badge/YouTube-F14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/amit_pawar_88/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/amitpawar_88/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
   
 <br>
  
