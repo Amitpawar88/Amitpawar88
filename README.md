@@ -5,13 +5,12 @@ You can find me here :
   <a href="https://www.linkedin.com/in/amitpawar88/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://hashnode.com/@amitpawar88"><img title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="mailto:amitpawar7475@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@amitpawar88"><img title="YouTube" src="https://img.shields.io/badge/YouTube-F14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/amitpawar_88/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
   
 <br>
  
 ## About Me
-- 🔭 I am an pursuing Bachelor's in Computer Science from Bhopal.
+- 🔭 I am pursuing Bachelor's in Computer Science from Bhopal.
 - 👩‍💻 I find my technical interests in Full-stack development, Open Source 💖, Data Structure and Algorithms. 
 - 👍 I love collaborating over code with new people.
 
