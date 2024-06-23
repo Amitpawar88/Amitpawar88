@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, 👋 I'm <a href="https://www.linkedin.com/in/amitpawar88/" target="_blank"> Amit Pawar </a></h1>
+<h1 align="center" >Hello there! I'm <a href="https://www.linkedin.com/in/amitpawar88/" target="_blank">Amit Pawar</a></h1>
 
 You can find me here :
 <p align="left">
